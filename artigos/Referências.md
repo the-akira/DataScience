@@ -35,6 +35,7 @@
 - [101 Pandas Exercises for Data Analysis](https://www.machinelearningplus.com/python/101-pandas-exercises-python/)
 - [Practical Tutorial on Data Manipulation with Numpy and Pandas](https://www.hackerearth.com/pt-br/practice/machine-learning/data-manipulation-visualisation-r-python/tutorial-data-manipulation-numpy-pandas-python/tutorial/)
 - [Data Analysis with Dr Mike Pound](https://www.youtube.com/playlist?list=PLzH6n4zXuckpfMu_4Ff8E7Z1behQks5ba)
+- [Real-World Python Machine Learning Tutorial](https://www.youtube.com/watch?v=M9Itm95JzL0&t=1s)
 - [Pandas Guide](https://towardsdatascience.com/be-a-more-efficient-data-scientist-today-master-pandas-with-this-guide-ea362d27386)
 - [Quick Dive into Pandas for Data Science](https://towardsdatascience.com/quick-dive-into-pandas-for-data-science-cc1c1a80d9c4)
 - [Feature Selection Techniques in Machine Learning with Python](https://towardsdatascience.com/feature-selection-techniques-in-machine-learning-with-python-f24e7da3f36e)
