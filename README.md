@@ -10,7 +10,7 @@ Coleção de recursos sobre <b>Ciência de Dados com Python</b>: Artigos, Experi
 
 ## Contéudo
 
-### Artigos
+### :scroll: Artigos
 
 - [Introdução ao Machine Learning com Python](https://github.com/the-akira/ciencia-de-dados-python/blob/master/artigos/Machine%20Learning%20com%20Python.md)
 - [Paradigmas da Ciência](https://github.com/the-akira/ciencia-de-dados-python/blob/master/artigos/Paradigmas%20da%20Ci%E1%BA%BDncia.md)
