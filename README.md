@@ -15,7 +15,7 @@ Coleção de recursos sobre <b>Ciência de Dados com Python</b>: Artigos, Experi
 - [Introdução ao Machine Learning com Python](https://github.com/the-akira/ciencia-de-dados-python/blob/master/artigos/Machine%20Learning%20com%20Python.md)
 - [Paradigmas da Ciência](https://github.com/the-akira/ciencia-de-dados-python/blob/master/artigos/Paradigmas%20da%20Ci%E1%BA%BDncia.md)
 
-### Operações
+### :heavy_multiplication_x: Operações
 
 - [Comparando Dicionários](https://nbviewer.jupyter.org/github/the-akira/ciencia-de-dados-python/blob/master/notebooks/opera%C3%A7%C3%B5es/Comparando%20Dicion%C3%A1rios.ipynb)
 - [Convertendo Dicionário em Matriz](https://nbviewer.jupyter.org/github/the-akira/ciencia-de-dados-python/blob/master/notebooks/opera%C3%A7%C3%B5es/Convertendo%20um%20Dicion%C3%A1rio%20em%20Matriz.ipynb)
@@ -24,7 +24,7 @@ Coleção de recursos sobre <b>Ciência de Dados com Python</b>: Artigos, Experi
 - [Produto Cartesiano](https://nbviewer.jupyter.org/github/the-akira/ciencia-de-dados-python/blob/master/notebooks/opera%C3%A7%C3%B5es/Produto%20Cartesiano.ipynb)
 - [Combinações de Objetos](https://nbviewer.jupyter.org/github/the-akira/ciencia-de-dados-python/blob/master/notebooks/opera%C3%A7%C3%B5es/Todas%20as%20Combina%C3%A7%C3%B5es%20para%20Lista%20de%20Objetos.ipynb)
 
-### Matemática
+### :triangular_ruler: Matemática
 
 - [Introdução ao SymPy e LaTeX](https://nbviewer.jupyter.org/github/the-akira/ciencia-de-dados-python/blob/master/notebooks/matem%C3%A1tica/Introdu%C3%A7%C3%A3o%20ao%20SymPy%20e%20LaTeX.ipynb)
 - [Álgebra I](https://nbviewer.jupyter.org/github/the-akira/ciencia-de-dados-python/blob/master/notebooks/matem%C3%A1tica/%C3%81lgebra%20I.ipynb)
@@ -33,7 +33,7 @@ Coleção de recursos sobre <b>Ciência de Dados com Python</b>: Artigos, Experi
 - [Trigonometria](https://nbviewer.jupyter.org/github/the-akira/ciencia-de-dados-python/blob/master/notebooks/matem%C3%A1tica/Trigonometria.ipynb)
 - [Cálculo](https://nbviewer.jupyter.org/github/the-akira/ciencia-de-dados-python/blob/master/notebooks/matem%C3%A1tica/C%C3%A1lculo.ipynb)
 
-### Estatística
+### :bar_chart: Estatística
 
 - [Estatística Básica com Python](https://nbviewer.jupyter.org/github/the-akira/ciencia-de-dados-python/blob/master/notebooks/estat%C3%ADstica/Estat%C3%ADstica%20B%C3%A1sica.ipynb)
 - [Estatística Descritiva com Pandas](https://nbviewer.jupyter.org/github/the-akira/ciencia-de-dados-python/blob/master/notebooks/estat%C3%ADstica/Estat%C3%ADstica%20Descritiva.ipynb)
@@ -45,7 +45,7 @@ Coleção de recursos sobre <b>Ciência de Dados com Python</b>: Artigos, Experi
 - [Variância e Desvio Padrão](https://nbviewer.jupyter.org/github/the-akira/ciencia-de-dados-python/blob/master/notebooks/estat%C3%ADstica/Vari%C3%A2ncia%20e%20Desvio%20Padr%C3%A3o.ipynb)
 - [Correlação](https://nbviewer.jupyter.org/github/the-akira/ciencia-de-dados-python/blob/master/notebooks/estat%C3%ADstica/Correla%C3%A7%C3%A3o.ipynb)
 
-### Análise de Dados
+### :mag: Análise de Dados
 
 - [Python para Análise de Dados](https://nbviewer.jupyter.org/github/the-akira/ciencia-de-dados-python/blob/master/notebooks/an%C3%A1lise%20de%20dados/Python%20para%20An%C3%A1lise%20de%20Dados.ipynb)
 - [Fundamentos de Pandas](https://nbviewer.jupyter.org/github/the-akira/ciencia-de-dados-python/blob/master/notebooks/an%C3%A1lise%20de%20dados/Pandas%20Explorando%20Fundamentos.ipynb)
@@ -62,7 +62,7 @@ Coleção de recursos sobre <b>Ciência de Dados com Python</b>: Artigos, Experi
 - [Pandas DataFrames IV](https://nbviewer.jupyter.org/github/the-akira/ciencia-de-dados-python/blob/master/notebooks/an%C3%A1lise%20de%20dados/Pandas%20DataFrames%20IV.ipynb)
 - [Pandas DataFrames V](https://nbviewer.jupyter.org/github/the-akira/ciencia-de-dados-python/blob/master/notebooks/an%C3%A1lise%20de%20dados/Pandas%20DataFrames%20V.ipynb)
 
-### Manipulação de Dados
+### :wrench: Manipulação de Dados
 
 - [Pré-Processamento de Dados](https://nbviewer.jupyter.org/github/the-akira/ciencia-de-dados-python/blob/master/notebooks/machine%20learning/Pr%C3%A9-Processamento.ipynb)
 - [Perfomance NumPy](https://nbviewer.jupyter.org/github/the-akira/ciencia-de-dados-python/blob/master/notebooks/manipula%C3%A7%C3%A3o%20de%20dados/Performance%20NumPy.ipynb)
@@ -77,7 +77,7 @@ Coleção de recursos sobre <b>Ciência de Dados com Python</b>: Artigos, Experi
 - [Pandas Cheat Sheet](https://nbviewer.jupyter.org/github/the-akira/ciencia-de-dados-python/blob/master/notebooks/manipula%C3%A7%C3%A3o%20de%20dados/Pandas%20Cheat%20Sheet.ipynb)
 - [Pandas Exercícios](https://nbviewer.jupyter.org/github/the-akira/ciencia-de-dados-python/blob/master/notebooks/manipula%C3%A7%C3%A3o%20de%20dados/Pandas%20Exerc%C3%ADcios.ipynb)
 
-### Pré-Processamento de Texto
+### :abcd: Pré-Processamento de Texto
 
 - [Bag of Words](https://nbviewer.jupyter.org/github/the-akira/ciencia-de-dados-python/blob/master/pr%C3%A9-processamento%20de%20texto/Bag%20of%20Words.ipynb)
 - [Removendo Espaço em Branco](https://nbviewer.jupyter.org/github/the-akira/ciencia-de-dados-python/blob/master/pr%C3%A9-processamento%20de%20texto/Removendo%20Espa%C3%A7o%20em%20Branco.ipynb)
@@ -89,7 +89,7 @@ Coleção de recursos sobre <b>Ciência de Dados com Python</b>: Artigos, Experi
 - [Tokenizando Texto](https://nbviewer.jupyter.org/github/the-akira/ciencia-de-dados-python/blob/master/pr%C3%A9-processamento%20de%20texto/Tokenizando%20Texto.ipynb)
 - [Term Frequency Inverse Document Frequency](https://nbviewer.jupyter.org/github/the-akira/ciencia-de-dados-python/blob/master/pr%C3%A9-processamento%20de%20texto/Term%20Frequency%20Inverse%20Document%20Frequency.ipynb)
 
-### Gŕaficos
+### :chart_with_upwards_trend: Gŕaficos
 
 - [Gráficos e Visualizações](https://nbviewer.jupyter.org/github/the-akira/ciencia-de-dados-python/blob/master/notebooks/matem%C3%A1tica/Gr%C3%A1ficos%20e%20Visualiza%C3%A7%C3%B5es.ipynb)
 - [Gráficos de Seções Cônicas](https://nbviewer.jupyter.org/github/the-akira/ciencia-de-dados-python/blob/master/notebooks/matem%C3%A1tica/Gr%C3%A1ficos%20de%20Se%C3%A7%C3%B5es%20C%C3%B4nicas.ipynb)
@@ -98,7 +98,7 @@ Coleção de recursos sobre <b>Ciência de Dados com Python</b>: Artigos, Experi
 - [Visualizando Dados com Pandas](https://nbviewer.jupyter.org/github/the-akira/ciencia-de-dados-python/blob/master/notebooks/gr%C3%A1ficos/Visualizando%20Dados%20com%20Pandas.ipynb)
 - [Visualizando Dados com Gráficos 3D](https://nbviewer.jupyter.org/github/the-akira/ciencia-de-dados-python/blob/master/notebooks/gr%C3%A1ficos/Gr%C3%A1ficos%203D%20com%20Python.ipynb)
 
-### Machine Learning
+### :robot: Machine Learning
 
 - [Conceitos Importantes Machine Learning](https://nbviewer.jupyter.org/github/the-akira/ciencia-de-dados-python/blob/master/notebooks/machine%20learning/Machine%20Learning%20Conceitos.ipynb)
 - [Introdução ao Scikit-Learn](https://nbviewer.jupyter.org/github/the-akira/ciencia-de-dados-python/blob/master/notebooks/machine%20learning/Introdu%C3%A7%C3%A3o%20ao%20Scikit-Learn.ipynb)
@@ -125,6 +125,6 @@ Coleção de recursos sobre <b>Ciência de Dados com Python</b>: Artigos, Experi
 - [Principal Component Analysis (PCA)](https://nbviewer.jupyter.org/github/the-akira/ciencia-de-dados-python/blob/master/notebooks/machine%20learning/Principal%20Component%20Analysis.ipynb)
 - [Redes Neurais em Scikit-Learn](https://nbviewer.jupyter.org/github/the-akira/ciencia-de-dados-python/blob/master/notebooks/machine%20learning/Redes%20Neurais%20em%20Scikit-Learn.ipynb)
 
-### Anexo
+### :paperclip: Anexo
 
 - [Referências](https://github.com/the-akira/ciencia-de-dados-python/blob/master/artigos/Refer%C3%AAncias.md)
