@@ -1,11 +1,11 @@
 <h1 align="center">Ciência de Dados com Python</h1>
 
 <h1 align="center">
-    <img alt="Python" src="https://i.imgur.com/vB6Jvhm.png"> </br>
+    <img alt="DataScience" src="https://raw.githubusercontent.com/the-akira/DataScience/master/Avatar.png"> </br>
 </h1>
 
 <p align="center">
-Coleção de recursos sobre <b>Ciência de Dados com Python</b>: Artigos, Experimentos, Notebooks e Materiais 
+Coleção de recursos sobre Ciência de Dados com Python.
 </p>
 
 ## Contéudo
