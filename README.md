@@ -13,7 +13,7 @@ Coleção de recursos sobre Ciência de Dados com Python.
 ### :scroll: Artigos
 
 - [Introdução ao Machine Learning com Python](https://github.com/the-akira/DataScience/blob/master/artigos/Machine%20Learning%20com%20Python.md)
-- [Paradigmas da Ciência](https://github.com/the-akira/DataScience/blob/master/artigos/Paradigmas%20da%20Ci%E1%BA%BDncia.md)
+- [Paradigmas da Ciência](https://github.com/the-akira/DataScience/blob/master/artigos/Paradigmas%20da%20Ci%C3%AAncia.md)
 
 ### :heavy_multiplication_x: Operações
 
