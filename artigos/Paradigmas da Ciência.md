@@ -47,7 +47,7 @@ Nos últimos anos ocorreu uma explosão de dados em praticamente todos os domín
 - Como remover ruídos?
 - Como preencher valores faltantes?
 
-## Processo de Ciência e Dados
+## Processo de Ciência de Dados
 
 ![img](https://raw.githubusercontent.com/the-akira/DataScience/master/imagens/process.png)
 
